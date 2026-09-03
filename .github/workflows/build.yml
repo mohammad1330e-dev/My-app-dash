@@ -35,4 +35,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: MyApp-APK
-          path: project/**/build/outputs/apk/debug/*.apk
+          path: project/**/build/outputs/apk/debug
