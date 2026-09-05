@@ -1,0 +1,5 @@
+1) کل فایل Rubina_OnlineBuild_REAL.zip را در سرویس Build آنلاین آپلود کنید.
+2) پروژه Android/Gradle را انتخاب کنید.
+3) دستور پیشنهادی: ./gradlew assembleRelease
+4) خروجی: app/build/outputs/apk/release/app-release.apk
+5) اگر سرویس خودش دستور Build می‌خواهد، assembleRelease را وارد کنید.
